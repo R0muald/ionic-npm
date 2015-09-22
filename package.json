@@ -1,6 +1,6 @@
 {
   "name": "ionic-npm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Bringing Ionic assets to NPM",
   "repository": {
     "type": "git",
