@@ -1,6 +1,6 @@
-# ionic-bower
+# ionic-npm
 
-Bower repository for [Ionic Framework](http://github.com/driftyco/ionic)
+NPM repository for [Ionic Framework](http://github.com/driftyco/ionic)
 
 ### Usage
 
