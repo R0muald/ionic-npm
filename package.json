@@ -1,0 +1,45 @@
+{
+  "name": "ionic-npm",
+  "version": "1.0.0",
+  "description": "Brining Ionic assets to NPM",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattWillis/ionic-bower.git"
+  },
+  "keywords": [
+    "ionic",
+    "npm"
+  ],
+  "author": "mewillis21@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mattWillis/ionic-bower/issues"
+  },
+  "homepage": "https://github.com/mattWillis/ionic-bower#readme",
+
+    "main": [
+    "css/ionic.css",
+    "fonts/*",
+    "js/ionic.js",
+    "js/ionic-angular.js"
+  ],
+  "keywords": [
+    "mobile",
+    "html5",
+    "ionic",
+    "cordova",
+    "phonegap",
+    "trigger",
+    "triggerio",
+    "angularjs",
+    "angular"
+  ],
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "angular": "1.4.3",
+    "angular-animate": "1.4.3",
+    "angular-sanitize": "1.4.3",
+    "angular-ui-router": "0.2.13"
+  }
+}
